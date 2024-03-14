@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Sudhi162
-- 👀 I’m interested in Data Engineering , Data Science, Cloud Infrastructure and Software Engineering.
-- 🌱 I’m currently learning Data Science and ML and a bunch of other things :)
-- 💞️ I’m looking to collaborate on any projects that improves human life.
+- 👋 Hi, I’m Sudeendra
+- 👀 I’m interested in Data Architecture, Data Engineering , Data Science, Cloud Infrastructure and Software Engineering.
 - 📫 Please reach me on sudee.gm@gmail.com
 
 <!---
